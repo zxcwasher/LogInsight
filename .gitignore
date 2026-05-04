@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.db
+test.db
+tasks.db
+.pytest_cache/
+.idea/
+*.iml
+*.iml*
+.DS_Store
+__MACOSX/

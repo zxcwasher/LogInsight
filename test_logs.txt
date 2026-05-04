@@ -1,0 +1,5 @@
+ERROR database connection failed on postgres
+WARNING invalid token detected
+ERROR request timeout while calling service
+CRITICAL out of memory in worker process
+ERROR no space left on device

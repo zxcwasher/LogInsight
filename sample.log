@@ -1,0 +1,3 @@
+2026-05-03 10:00:01 INFO auth-service HTTP 200 User logged in user_id=1
+2026-05-03 10:01:15 ERROR payment-service HTTP 500 Payment failed order_id=42
+2026-05-03 10:02:30 WARNING auth-service HTTP 401 Unauthorized access attempt
